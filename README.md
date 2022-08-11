@@ -1,4 +1,4 @@
-                                                                  MASSP_PROJECT
+                                                     MASSP_PROJECT
   
     I. TOPIC
 - Hi everyone, I'm Nhật, a mentee of MASSP 2022. In this project, I would like to do research about House Price Prediction Model.
